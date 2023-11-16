@@ -1,1 +1,1 @@
-# C-lculo-de-probabilidad-de-VAs
+# Calculo-de-probabilidad-de-VAs
